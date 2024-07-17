@@ -17,7 +17,7 @@
 
 ---
  <div id="badges">
-  <a href = "https://github.com/lilica47">
+  <a href = "www.linkedin.com/in/luciana-santos-287488174">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    
