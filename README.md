@@ -3,7 +3,8 @@
 
 
 # ❤ Olá, bom ter você por aqui!
-
+💙 Fã da Alura
+- 👩‍💻 Aprendendo algo sobre back-end
 
 Sou desenvolvedora de software aprendiz, amo jogos e sou engenheira de Telecomunicações e Bacharel em enfermagem.
 
