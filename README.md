@@ -2,7 +2,7 @@
 
 # ❤ Olá, bom ter você por aqui!
 
-Sou desenvolvedora de software aprendiz, amo jogos indie, sou engenheira de Telecomunicações e Bacharel em enfermagem.
+Sou desenvolvedora de software aprendiz, amo jogos e sou engenheira de Telecomunicações e Bacharel em enfermagem.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
