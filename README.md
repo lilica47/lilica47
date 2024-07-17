@@ -1,4 +1,4 @@
-<img src = "giphy.webp" width = "325px" align = "right">
+<img src = "giphy.webp" width = "125px" align = "right">
 
 # ❤ Olá Pessoal, como é bom ter você(s) por aqui!
 
