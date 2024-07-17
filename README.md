@@ -1,8 +1,7 @@
 <img src = "giphy.webp" width = "325px" align = "right">
 
-
-
 # ❤ Olá Pessoal, como é bom ter você(s) por aqui!
+
 💙 Fã da Alura
 
 - 👩‍💻 Aprendendo algo sobre back-end
