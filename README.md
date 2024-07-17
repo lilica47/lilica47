@@ -2,7 +2,7 @@
 
 
 
-# ❤ Olá, bom ter você por aqui!
+# ❤ Olá Pessoal, como é bom ter você(s) por aqui!
 💙 Fã da Alura
 
 - 👩‍💻 Aprendendo algo sobre back-end
