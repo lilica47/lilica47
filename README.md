@@ -5,8 +5,6 @@
 # ❤ Olá, bom ter você por aqui!
 
 
-
-
 Sou desenvolvedora de software aprendiz, amo jogos e sou engenheira de Telecomunicações e Bacharel em enfermagem.
 
 <div>
