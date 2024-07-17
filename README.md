@@ -1,7 +1,7 @@
 
 <img src = "matrix.webp" width = "225px" align = "right">
 
-# ❤ Olá Pessoal, como é bom ter você(s) por aqui!
+# 💄 Olá Pessoal, como é bom ter você(s) por aqui!
 
 💙 Fã da Alura
 
