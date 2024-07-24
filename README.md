@@ -3,7 +3,7 @@
 
 ##💄 Olá Pessoal, como é bom ter você(s) por aqui!
 
-💙 Fã de Técnologia e Sáude!
+💙 Fã de Técnologia e Saúde!
 
 - 👩‍💻 Aprendendo algo sobre back-end
 
