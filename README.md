@@ -7,7 +7,7 @@
 
 - 👩‍💻 Aprendendo algo sobre back-end e Ciência Da Computação.
 
-- 👩‍💻 Sou desenvolvedora de software aprendiz, amo jogos e sou engenheira de Telecomunicações e Bacharel em enfermagem.
+- 👩‍💻 Sou desenvolvedora de software aprendiz, amo jogos e sou engenheira/analista de Telecomunicações, Ciência da computação e Bacharel em enfermagem.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
