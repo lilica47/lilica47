@@ -5,7 +5,7 @@
 
 💙 Fã de Técnologia e Saúde!
 
-- 👩‍💻 Aprendendo algo sobre back-end
+- 👩‍💻 Aprendendo algo sobre back-end e Ciênci Da Computação.
 
 - 👩‍💻 Sou desenvolvedora de software aprendiz, amo jogos e sou engenheira de Telecomunicações e Bacharel em enfermagem.
 
