@@ -1,5 +1,5 @@
 
-<img src = "festa.webp" width = "200px" align = "right">
+<img src = "festa.png" width = "200px" align = "right">
 
 ##💄 Olá Pessoal, como é bom ter você(s) por aqui!
 
