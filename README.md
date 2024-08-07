@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" title="VS_Code" alt="VS_Code" width="50" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" title="VS_Code" alt="Discord" width="50" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" title="VS_Code" alt="Python" width="50" height="40"/>&nbsp;
-   <img src="https://img.icons8.com/?size=64&id=OkBCty7GwbXX&format=png" alt="DBeaver" width="50" height="40"/>&nbsp;
+   <img src="https://icons8.com.br/icon/kjaF4LlvyR6g/dbeaver" alt="DBeaver" width="50" height="40"/>&nbsp;
 </div>
 
 ---
