@@ -24,6 +24,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       <a href = "http://t.me/lucisana_lopes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+<a href = "http://t.me/lucisana_lopes](https://mail.google.com/mail/u/0/?ogbl#inbox">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+
+        
   </a>
 </div>
 
