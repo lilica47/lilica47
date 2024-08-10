@@ -50,37 +50,5 @@
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=APThierry&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/APThierry/dio-lab-open-source) 
 
-# Título do Projeto
-
-# Dio Git e Github
-
-Repositorios para criar resumos Git e Github
-[Digital Inovation one](https://dio.me/).
-
-##💻 Documentação
-
-*[Documentação Git](https://git-scm.com/doc)
-
-*[Documentação Github](https://docs.github.com)
-
-##💾 Resumos das Aulas
-
-| Aulas | Resumos |
-| ------------- | ------------- |
-| Alterar um commit no GitHub Desktop | https://docs.github.com/pt/desktop/managing-commits/amending-a-commit-in-github-desktop
-
-...
-
-git init
-
-...
-
-## 🔎Referências
-
-[Digital Inovation one](https://dio.me/).
-
-
----
-
 
 
